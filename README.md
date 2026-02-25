@@ -1,4 +1,4 @@
-# Sub-County Spatial Density of Susceptiblility Explains Divergent Measles Outbreak Trajectories in South Carolina and Texas
+# Spatial Clustering of School Susceptibles Drives Divergent US Measles Outbreaks
 County-level vaccination surveillance can mask the sub-county spatial clustering of susceptible individuals that mechanistically drives measles outbreak dynamics. We demonstrate this using the two largest US measles outbreaks in over two decades: two counties with comparably sub-threshold coverage experienced radically different trajectories because of where susceptible students concentrate, not merely how many exist. Spatial density of susceptibles governed by nonlinear contact-rate scaling determined whether outbreaks self-limited through geographic isolation or persisted through overlapping transmission networks. This framework identifies high-risk micro-geographies invisible to aggregate surveillance and argues for school-level vaccination data collection to guide targeted intervention.
 ## Data
 Texas: 
