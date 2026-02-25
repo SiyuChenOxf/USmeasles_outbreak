@@ -13,10 +13,13 @@ South Carolina:
 1.	Hu H, Nigmatulina K, Eckhoff P. The scaling of contact rates with population density for infectious disease models. Math Biosci. 2013;244(2):125-134.
 2.	Park SW, Leng T, Bento AI, et al. Susceptible host dynamics explain pathogen resilience to perturbations. Proc Natl Acad Sci USA. 2026;123. doi:10.1073/pnas.2517518122
 3.	Masters NB, Eisenberg MC, Delamater PL, Kay M, Boulton ML, Zelner J. Fine-scale spatial clustering of measles nonvaccination that increases outbreak potential is obscured by aggregated reporting data. Proc Natl Acad Sci USA. 2020;117(45):28506-28514. doi:10.1073/pnas.2011529117
-4.	Dong E, Saiyed S, Nearchou A, Okura Y, Gardner LM. Trends in county-level MMR vaccination coverage in children in the United States. JAMA. 2025;334(8):730-732.
-5.	Fattah M, Stoffel LA, Bubar KM, et al. Trends in county-level childhood vaccination exemptions in the US. JAMA. Published online January 14, 2026.
-6.	Kiang MV, Bubar KM, Maldonado Y, Hotez PJ, Lo NC. Modeling reemergence of vaccine-eliminated infectious diseases under declining vaccination in the US. JAMA. 2025;333(24):2176-2187.
-7.	Chen S, Bento AI. Multiscale modelling reveals accelerating community outbreak risks of measles in the United States. medRxiv. 2026. doi:10.64898/2026.01.27.26345010
-8.	Texas Department of State Health Services. Annual School/Facility Vaccination Coverage Level Reports. https://www.dshs.texas.gov/immunizations/school/coverage/
-9.	South Carolina Department of Public Health. 45-Day report of schools with required immunization certification, 2025–2026 (Revised December 29, 2025). Accessed on February 5, 2026 through https://dph.sc.gov/health-wellness/child-teen-health/vaccine-requirements-info/school-vaccination-coverage-data 
-10.	Ahmadi F, Dong E, Gardner LM. Tracking county-level measles cases in the US. JAMA. Published online September 15, 2025.
+4.	Tun STT, Parker DM, Aguas R, White LJ. The assembly effect: the connectedness between populations is a double-edged sword for public health interventions. Malar J. 2021 Apr 17;20(1):189. doi: 10.1186/s12936-021-03726-x. PMID: 33865392 
+5.	Dong E, Saiyed S, Nearchou A, Okura Y, Gardner LM. Trends in county-level MMR vaccination coverage in children in the United States. JAMA. 2025;334(8):730-732.
+6.	Fattah M, Stoffel LA, Bubar KM, et al. Trends in county-level childhood vaccination exemptions in the US. JAMA. Published online January 14, 2026.
+7.	Kiang MV, Bubar KM, Maldonado Y, Hotez PJ, Lo NC. Modeling reemergence of vaccine-eliminated infectious diseases under declining vaccination in the US. JAMA. 2025;333(24):2176-2187.
+8.	Chen S, Bento AI. Multiscale modelling reveals accelerating community outbreak risks of measles in the United States. medRxiv. 2026. doi:10.64898/2026.01.27.26345010
+9.	Texas Department of State Health Services. Annual School/Facility Vaccination Coverage Level Reports. https://www.dshs.texas.gov/immunizations/school/coverage/ 
+10.	South Carolina Department of Public Health. 45-Day report of schools with required immunization certification, 2025–2026 (Revised December 29, 2025). Accessed on February 5, 2026 through https://dph.sc.gov/health-wellness/child-teen-health/vaccine-requirements-info/school-vaccination-coverage-data 
+11.	Ahmadi F, Dong E, Gardner LM. Tracking county-level measles cases in the US. JAMA. Published online September 15, 2025.
+12.	South Carolina Department of Public Health. Measles Dashboard. https://scdhec.gov/measles
+
